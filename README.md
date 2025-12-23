@@ -46,3 +46,17 @@ More Information
 * [Latest CGAL master documentation pages, updated once a week](https://cgal.geometryfactory.com/CGAL/doc/master/)
 * [CGAL daily testsuite results](https://cgal.geometryfactory.com/CGAL/testsuite/)
 * [Guidelines for CGAL developers](https://github.com/CGAL/cgal/wiki/Guidelines) and [Information for new developers](https://github.com/CGAL/cgal/wiki/Information-for-New-Developers)
+
+Local Getting Started (Windows)
+===============================
+For a practical, step-by-step guide to building and running the `Triangulation_on_sphere_2` examples and Qt6 demo on Windows (VS2022 + CMake), see:
+
+* `Documentation/Triangulation_on_sphere_2_Demo_Getting_Started.md`
+
+That document includes:
+- Environment preparation and CGAL install-tree generation
+- Example build/run producing `result.off` (COFF/Colored OFF)
+- Qt6 installation via aqtinstall and Demo build/run
+- One-click runtime deployment with `windeployqt`
+- Common troubleshooting tips and path quick-reference
+# cgal_zs
